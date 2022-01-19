@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-19T11:02:49 BDT" name="Suite" finished-at="2022-01-19T11:03:18 BDT" duration-ms="29000">
+    <groups>
+    </groups>
+    <test started-at="2022-01-19T11:02:49 BDT" name="Test" finished-at="2022-01-19T11:03:18 BDT" duration-ms="29000">
+      <class name="Test_Cases.TC002_SendMessage">
+        <test-method is-config="true" signature="SetDriver()[pri:0, instance:Test_Cases.TC002_SendMessage@73302995]" started-at="2022-01-19T11:02:45 BDT" name="SetDriver" finished-at="2022-01-19T11:02:49 BDT" duration-ms="3433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetDriver -->
+        <test-method signature="login_Facebook()[pri:0, instance:Test_Cases.TC002_SendMessage@73302995]" started-at="2022-01-19T11:02:49 BDT" name="login_Facebook" finished-at="2022-01-19T11:03:00 BDT" duration-ms="11278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_Facebook -->
+        <test-method signature="send_Message()[pri:0, instance:Test_Cases.TC002_SendMessage@73302995]" started-at="2022-01-19T11:03:00 BDT" name="send_Message" finished-at="2022-01-19T11:03:18 BDT" duration-ms="17539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- send_Message -->
+        <test-method is-config="true" signature="close()[pri:0, instance:Test_Cases.TC002_SendMessage@73302995]" started-at="2022-01-19T11:03:18 BDT" name="close" finished-at="2022-01-19T11:03:22 BDT" duration-ms="4222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Test_Cases.TC002_SendMessage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
